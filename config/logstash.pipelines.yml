@@ -3,3 +3,6 @@
 
 - pipeline.id: symfony_atlas_countries
   path.config: "/usr/share/logstash/pipeline/logstash_atlas_countries.conf"
+
+- pipeline.id: symfony_atlas_cve
+  path.config: "/usr/share/logstash/pipeline/logstash_atlas_cve.conf"
