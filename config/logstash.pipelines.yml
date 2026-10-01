@@ -6,3 +6,6 @@
 
 - pipeline.id: symfony_atlas_cve
   path.config: "/usr/share/logstash/pipeline/logstash_atlas_cve.conf"
+
+- pipeline.id: symfony_atlas_products
+  path.config: "/usr/share/logstash/pipeline/logstash_atlas_products.conf"
